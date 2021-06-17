@@ -984,6 +984,7 @@ a {
   margin-right: 7px;
   border: 2px solid var(--accent-background-color);
   border-radius: 4px;
+  cursor: pointer;
 }
 
 .checkbox-text {
